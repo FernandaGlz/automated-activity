@@ -1,0 +1,5 @@
+--extra-index-url http://stg-qa-selenium1.internetbrands.com:8080/ --trusted-host stg-qa-selenium1.internetbrands.com
+ib-glados==5.2.*
+ib-robotrunner==0.6.*
+robotframework==3.2.1
+robotframework-seleniumlibrary==3.3.1

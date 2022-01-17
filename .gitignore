@@ -1,0 +1,6 @@
+*.pyc
+*.log
+*.idea
+venv
+results
+python_library
